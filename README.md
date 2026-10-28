@@ -1,6 +1,14 @@
 # Apiarium 3D: Cam Gözlem Kovanı & Bal Arısı Koloni Simülatörü
 **(3D Glass Apiarium & Honey Bee Colony Environmental Simulator)**
 
+[![Live Demo](https://img.shields.io/badge/🌐_Canlı_Demo-GitHub_Pages-amber?style=for-the-badge&logo=github)](https://mserman90.github.io/apiarium-3d/)
+[![License: MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=for-the-badge)](LICENSE)
+[![Built With](https://img.shields.io/badge/Three.js-r186+-black?style=for-the-badge&logo=three.js)](https://threejs.org/)
+[![React](https://img.shields.io/badge/React-19-61dafb?style=for-the-badge&logo=react)](https://react.dev/)
+
+> **🌐 Canlı Simülasyonu Tarayıcınızda Deneyimleyin:**  
+> 👉 **[https://mserman90.github.io/apiarium-3d/](https://mserman90.github.io/apiarium-3d/)**
+
 Müze kalitesinde, Three.js (r160+ PBR pipeline), React 19, TypeScript ve Web Audio API ile geliştirilmiş interaktif 3D cam gözlem kovanı simülatörü.
 
 ---
